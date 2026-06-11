@@ -9,11 +9,6 @@ No manual download needed!
 pip install pandas numpy matplotlib seaborn
 ```
 
-## How to Run
-```bash
-python task3_data_visualization.py
-```
-
 ## Output
 - `task3_happiness_dashboard.png` — Full dashboard with 5 charts
 
@@ -38,9 +33,3 @@ python task3_data_visualization.py
 - GDP per capita and Social Support are the strongest drivers
 - There's a clear positive correlation between GDP and happiness
 - Happiness scores range from ~3.0 to ~7.8 globally
-
-## GitHub Upload
-Add to your `CodeAlpha_ProjectName` repo:
-- `task3_data_visualization.py`
-- `task3_happiness_dashboard.png`
-- This README
